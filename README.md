@@ -1,2 +1,2 @@
-# python
-spider code
+# 一个可以爬取的python代码
+欢迎交流
